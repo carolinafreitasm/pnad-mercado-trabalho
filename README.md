@@ -103,6 +103,35 @@ Tempo estimado: 20–40 minutos dependendo da velocidade de download.
 
 ---
 
+## Principais resultados
+
+### Evolução da desocupação — Brasil
+![Desocupação Brasil](outputs/figures/01_desocupacao_brasil.png)
+
+### Desigualdade de gênero e raça
+![Desocupação por sexo](outputs/figures/02_desocupacao_sexo.png)
+![Desocupação por raça](outputs/figures/03_desocupacao_raca.png)
+
+### Rendimento e escolaridade
+![Rendimento por escolaridade](outputs/figures/04_rendimento_escolaridade.png)
+
+### Ranking regional
+![Dotplot UF](outputs/figures/05_rendimento_uf_dotplot.png)
+
+### Desigualdade de gênero no mercado de trabalho
+![Tabela gênero](outputs/tables/tab_03_desigualdade_genero.png)
+
+### Mapas regionais
+![Painel mapas](outputs/maps/mapa_painel_desocupacao_rendimento.png)
+![Participação feminina](outputs/maps/mapa_03_participacao_feminina.png)
+
+### Modelo logit — participação na força de trabalho
+![Efeitos marginais](outputs/figures/logit/logit_01_efeitos_marginais.png)
+![Curva de idade](outputs/figures/logit/logit_03_pred_idade_sexo.png)
+
+### Ranking de UFs
+![Ranking UF](outputs/tables/tab_04_ranking_uf_rendimento.png)
+
 ## Autora
 
 Carolina Freitas
