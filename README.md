@@ -8,6 +8,8 @@ e raça, retorno educacional e determinantes da participação na força de trab
 ---
 
 ## Estrutura do projeto
+
+```
 pnad/
 ├── 00_config.R          # Configuração global: caminhos, paleta, tema
 ├── 01_download.R        # Download dos microdados via PNADcIBGE
@@ -20,9 +22,8 @@ pnad/
 ├── run_all.R            # Executa o pipeline completo
 ├── renv.lock            # Versões dos pacotes (reprodutibilidade)
 └── data/
-└── raw/             # Microdados brutos — não versionados
-
----
+    └── raw/             # Microdados brutos — não versionados
+```
 
 ## Dados
 
