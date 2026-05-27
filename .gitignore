@@ -4,9 +4,6 @@ data/raw/
 # Dados processados
 data/processed/
 
-# Outputs
-outputs/
-
 # R temporários
 .Rhistory
 .RData
